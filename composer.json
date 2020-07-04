@@ -14,7 +14,7 @@
         "symfony/framework-bundle": "~5.0"
     },
     "require-dev": {
-        "doctrine/doctrine-bundle": "~1.0",
+        "doctrine/doctrine-bundle": "~2.1",
         "jms/serializer-bundle": "~3.0",
         "phpunit/phpunit": "~6.5|~7.0",
         "symfony/form": "~5.0",
